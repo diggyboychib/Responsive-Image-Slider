@@ -10,7 +10,7 @@ header{
 
  nav{
      display: flex;
-     flex-wrap: wrap;
+     
      justify-content: space-between;
      background-color: #fff;
      border: none;
@@ -28,6 +28,7 @@ ul,li,a{
     text-decoration: none;
     color: black;
 }
+
 
 
  .nav ul li{
