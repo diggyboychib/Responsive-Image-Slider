@@ -116,6 +116,15 @@ p{
        transform: scale(1.1);
        
    }
+
+   .section-header{
+       text-align: center;
+       text-transform: uppercase;
+       margin-top: 40px;
+       border-bottom: 2px solid block;
+   }
+
+
  @media (max-width:700px){
      nav{
          width: 100%;
